@@ -6,5 +6,5 @@ Random colors generator using HTML CSS and JavaScript
 
 #### Author
 
-[@nisabmohd](https://github.com/nisabmohd)
+[@rath321](https://github.com/nisabmohd)
 
